@@ -117,4 +117,18 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label1.Text" xml:space="preserve">
+    <value>
+ 
+Project Support Log -
+
+A software technical support log at the software company where you just start working maintains a log
+of phone calls and email requests from customers, name of the technician providing the support, date
+and time of the request, was the problem resolved and how. The current system keeping all of this
+technical information is just too darn difficult to maintain and a pain to extend. You and your team’s job
+is to completely redesign this system using object oriented techniques and principles, some of which
+are described in the overview. Feel free to discuss with your Boss (Professor) any addition (s) to the log
+you deemed necessary. 
+</value>
+  </data>
 </root>
