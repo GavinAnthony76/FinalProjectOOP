@@ -28,5 +28,11 @@ namespace FinalProjectOOP
             About form = new About();
             form.ShowDialog();
         }
+
+        private void newRequestToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form1 form = new Form1();
+            form.ShowDialog();
+        }
     }
 }
